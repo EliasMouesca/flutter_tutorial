@@ -1,0 +1,1 @@
+/home/eli/datos/flutter_apps/namer/build/app/intermediates/cxx/Debug/6x535t3r/obj/x86

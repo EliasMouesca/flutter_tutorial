@@ -1,0 +1,2 @@
+/home/eli/datos/flutter_apps/namer/android/app/.cxx/Debug/6x535t3r/x86/CMakeFiles/edit_cache.dir
+/home/eli/datos/flutter_apps/namer/android/app/.cxx/Debug/6x535t3r/x86/CMakeFiles/rebuild_cache.dir

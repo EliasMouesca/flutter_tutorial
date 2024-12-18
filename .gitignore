@@ -1,0 +1,62 @@
+# Flutter build files
+build/
+.android/
+.ios/
+.linux/
+.macos/
+.web/
+.windows/
+
+# Generated plugin code
+/generated_plugin_registrant.dart
+
+# Dependency directories
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# VSCode settings
+.vscode/
+.idea/
+*.iml
+
+# IntelliJ/Android Studio files
+*.ipr
+*.iws
+*.sw?
+
+# Xcode specific
+**/*.xcodeproj/
+**/*.xcworkspace/
+**/*.xcuserstate
+**/*.xcuserdatad/
+**/profile
+**/DerivedData/
+**/build/
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.tmp
+*.swp
+*.sublime-project
+*.sublime-workspace
+*.bak
+*.DS_Store
+
+# Flutter specific
+flutter_*.log
+
+# Coverage reports
+coverage/
+
+# CMake build artifacts (Linux)
+linux/CMakeFiles/
+linux/cmake_install.cmake
+linux/Makefile
+
+# Generated localization files
+intl_translation/
+

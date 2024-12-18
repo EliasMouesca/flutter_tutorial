@@ -1,0 +1,1 @@
+/home/eli/datos/flutter_apps/namer/namer/build/app/intermediates/cxx/Debug/6j454950/obj/armeabi-v7a
