@@ -60,3 +60,4 @@ linux/Makefile
 # Generated localization files
 intl_translation/
 
+*/*.bin
